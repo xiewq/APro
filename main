@@ -1,0 +1,23 @@
+function main()
+{
+  common();
+  xiaohong();
+  xiaohuang();
+ }
+ 
+ function common()
+ {
+ 
+ }
+ 
+ function xiaohong()
+ {
+
+  
+  }
+  function xiaohuang()
+ {
+
+  
+  }
+  
