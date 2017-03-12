@@ -7,7 +7,7 @@ function main()
  
  function common()
  {
- 
+  //我是小黄我添加了内容。
  }
  
  function xiaohong()
