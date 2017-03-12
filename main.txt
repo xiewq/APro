@@ -12,7 +12,7 @@ function main()
  
  function xiaohong()
  {
-
+   //我是小红我已经完成任务。
   
   }
   function xiaohuang()
