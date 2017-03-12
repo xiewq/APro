@@ -12,6 +12,8 @@ function main()
 
   //我是小红我添加了内容
 
+  //我是小红完成了bug修复。
+
  }
  
  function xiaohong()
